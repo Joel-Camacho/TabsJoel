@@ -12,5 +12,6 @@ package basesingeniria;
 public class OchoOctubre {
     public static void main(String[] args) {
         System.out.println("TAGS");
+        System.out.println("Hola");
     }
 }
