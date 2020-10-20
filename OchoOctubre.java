@@ -13,5 +13,8 @@ public class OchoOctubre {
     public static void main(String[] args) {
         System.out.println("TAGS");
         System.out.println("Hola");
+        System.out.println("Prueba");
+        System.out.println("Joel");
+        System.out.println("v.4.0.0");
     }
 }
