@@ -14,4 +14,4 @@ Hola
 -Formato 2 _cursiva_
 -Formato **negrita**
 -Formato __negrita__
-
+-Formato ~~sub~~
