@@ -10,5 +10,8 @@ Underline 2
 ************
 Hola
 
-Formato *cursiva*
-fomato 2 _cursiva_
+-Formato *cursiva*
+-Formato 2 _cursiva_
+-Formato **negrita**
+-Formato __negrita__
+
