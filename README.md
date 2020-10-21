@@ -10,8 +10,12 @@ Underline 2
 ************
 Hola
 
--Formato *cursiva*
--Formato 2 _cursiva_
--Formato **negrita**
--Formato __negrita__
--Formato ~~sub~~
+- Formato *cursiva*
+- Formato 2 _cursiva_
+- Formato **negrita**
+- Formato __negrita__
+- Formato ~~sub~~
+
+1. Hola
+2. Adios
+3. Como estás
