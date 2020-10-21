@@ -9,3 +9,6 @@ ____________
 Underline 2
 ************
 Hola
+
+Formato *cursiva*
+fomato 2 _cursiva_
